@@ -456,6 +456,16 @@ ul ol {
       }
   }
 
+  @media only screen 
+  and (device-width: 414px) 
+  and (device-height: 896px) 
+  and (-webkit-device-pixel-ratio: 2) {
+    .img-fluid-project {
+        max-width: 40%;
+        height: auto;
+      }
+   }
+
   @media (min-width: 576px) {
     .container-sm, .container {
       max-width: 540px;
