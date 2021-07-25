@@ -462,8 +462,11 @@ ul ol {
   and (-webkit-device-pixel-ratio: 3)
   and (orientation: portrait) {
     .img-fluid-project {
-        max-width: 30%;
+        max-width: 60%;
         height: auto;
+      }
+      .label{
+          font-size: 0.6rem;
       }
    }
 
