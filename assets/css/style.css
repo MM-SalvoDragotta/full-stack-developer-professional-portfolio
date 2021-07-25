@@ -450,6 +450,10 @@ ul ol {
       .masthead h1{
           font-size: 2rem;
       }
+      .img-fluid-project {
+        max-width: 40%;
+        height: auto;
+      }
   }
 
   @media (min-width: 576px) {
