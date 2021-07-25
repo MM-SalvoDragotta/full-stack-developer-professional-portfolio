@@ -349,3 +349,51 @@ ul ol {
     font-size: 1rem;
   }
   
+  .about-section {
+    padding-top: 10rem;
+    background: linear-gradient(to bottom, #000 0%, rgba(0, 0, 0, 0.9) 75%, rgba(0, 0, 0, 0.8) 100%);
+  }
+  .about-section p {
+    margin-bottom: 5rem;
+  }
+  
+  .projects-section {
+    padding: 10rem 0;
+  }
+  .projects-section .featured-text {
+    padding: 2rem;
+  }
+  
+.px-4 {
+    padding-right: 1.5rem !important;
+    padding-left: 1.5rem !important;
+  }
+
+.px-lg-5 {
+    padding-right: 3rem !important;
+    padding-left: 3rem !important;
+}
+
+.row {
+    --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: calc(var(--bs-gutter-y) * -1);
+    margin-right: calc(var(--bs-gutter-x) * -.5);
+    margin-left: calc(var(--bs-gutter-x) * -.5);
+  }
+  .row > * {
+    flex-shrink: 0;
+    width: 100%;
+    max-width: 100%;
+    padding-right: calc(var(--bs-gutter-x) * .5);
+    padding-left: calc(var(--bs-gutter-x) * .5);
+    margin-top: var(--bs-gutter-y);
+  }
+
+
+.img-fluid {
+    max-width: 40%;
+    height: auto;
+  }
