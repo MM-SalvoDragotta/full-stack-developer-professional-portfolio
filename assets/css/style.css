@@ -450,10 +450,10 @@ ul ol {
       .masthead h1{
           font-size: 2rem;
       }
-      .img-fluid-project {
+      /* .img-fluid-project {
         max-width: 40%;
         height: auto;
-      }
+      } */
   }
 
   @media only screen 
@@ -462,7 +462,7 @@ ul ol {
   and (-webkit-device-pixel-ratio: 3)
   and (orientation: portrait) {
     .img-fluid-project {
-        max-width: 60%;
+        max-width: 80%;
         height: auto;
       }
       .label{
