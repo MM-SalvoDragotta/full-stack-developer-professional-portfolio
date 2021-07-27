@@ -8,7 +8,7 @@ You can view my portfolio at [Salvo Dragotta - Full Stack Developer Professional
 
 The following image shows the web application's appearance and functionality:
 
-![Salvo Dragotta - Full Stack Developer Professional Portfolio .](./assets/images/full-stack-developer-professional-portfolio.png)
+![Salvo Dragotta - Full Stack Developer Professional Portfolio .](./assets/images/full-stack-developer-professional-portfolio.gif)
 
 ## Education
 
@@ -21,25 +21,28 @@ the University of Sydney and Trilogy Education Services (Australia) Pty Ltd
 
 ## Recent Projects & Achievements
 
-### Project 1
+### 1.  COVID-19 Tracker | Fetch and render Global COVID data from the Covid-19 Rapid API
 
-### Project 2
+### 2. Weather Dashboard | Weather conditions displayed for a city, as well as a five day forecast.
+
+### 3. Work Day Scheduler | A simple calendar application that allows a user to save events for each hour of the day.
+
 
 ## Technical Skill Stack
 
 ### Front End
 
-`HTML` `CSS` `JavaScript` `React` `JQuery` `Bootstrap` 
+`HTML,` `CSS,` `JavaScript,` `React,` `JQuery,` `Bootstrap,` `Moment.js,` `Chart.js,` `Bulma`
 
 ### Back End
 
-`Node.js` `Nodemon` `Express`
+`Node.js,` `Nodemon,` `Express`
 
 ### Computer Science
 
-`Python` `Algorithms` `Data Structures` 
+`Python,` `Algorithms,` `Data Structures` 
 
 ### Tools & Deployment
 
- `Git` `Github` `NPM` `Heroku`
+ `Git,` `Github,` `NPM,` `Heroku`
 
