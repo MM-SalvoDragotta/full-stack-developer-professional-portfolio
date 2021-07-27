@@ -21,11 +21,11 @@ the University of Sydney and Trilogy Education Services (Australia) Pty Ltd
 
 ## Recent Projects & Achievements
 
-### 1.  COVID-19 Tracker | Fetch and render Global COVID data from the Covid-19 Rapid API
+ 1.  COVID-19 Tracker | Fetch and render Global COVID data from the Covid-19 Rapid API
 
-### 2. Weather Dashboard | Weather conditions displayed for a city, as well as a five day forecast.
+2. Weather Dashboard | Weather conditions displayed for a city, as well as a five day forecast.
 
-### 3. Work Day Scheduler | A simple calendar application that allows a user to save events for each hour of the day.
+3. Work Day Scheduler | A simple calendar application that allows a user to save events for each hour of the day.
 
 
 ## Technical Skill Stack
