@@ -762,6 +762,18 @@ svg {
     transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
     margin-top: 1rem;
   }
+
+.btn-primary {
+    color: #fff;
+    background-color:  #007bff !important;
+    border-color:#007bff !important;
+  }
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #cf5331;
+    border-color: #c34e2e;
+  }
  
 .my-auto {
     margin-top: auto !important;
@@ -770,4 +782,13 @@ svg {
 
 .d-none {
     display: none !important;
+}
+
+.not-selectable {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
 }
