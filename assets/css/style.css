@@ -460,9 +460,19 @@ hr:not([size]) {
   height: 440px;
 }  
 
+.tech-blog{
+  width: auto;
+  height: 440px;
+}  
+
 .work-day-scheduler{
   width: auto;
   height: 440px;
+}
+
+.bold-red{
+  color: red;
+  font-weight: bolder;
 }
 
 @media (max-width: 576px) {
@@ -610,6 +620,10 @@ hr:not([size]) {
 
   .text-black-50 {
     color: rgba(0, 0, 0, 0.5) !important;
+  }
+
+  .text-black-50-reducedfont {
+    font-size: 1rem !important;
   }
 
   .mb-0 {
