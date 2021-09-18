@@ -21,22 +21,26 @@ the University of Sydney and Trilogy Education Services (Australia) Pty Ltd
 
 ## Recent Projects & Achievements
 
- 1.  COVID-19 Tracker | Fetch and render Global COVID data from the Covid-19 Rapid API
+1. Grocery Delivery App | An online department store customer and admin side
 
-2. Weather Dashboard | Weather conditions displayed for a city, as well as a five day forecast.
+2. A CMS-style blog site similar to a Wordpress site
 
-3. Work Day Scheduler | A simple calendar application that allows a user to save events for each hour of the day.
+3. COVID-19 Tracker | Fetch and render Global COVID data from the Covid-19 Rapid API
+
+4. Weather Dashboard | Weather conditions displayed for a city, as well as a five day forecast
+
+5. Work Day Scheduler | A simple calendar application that allows a user to save events for each hour of the day
 
 
 ## Technical Skill Stack
 
 ### Front End
 
-`HTML,` `CSS,` `JavaScript,` `React,` `JQuery,` `Bootstrap,` `Moment.js,` `Chart.js,` `Bulma`
+`HTML,` `CSS,` `JavaScript,` `React,` `JQuery,` `Bootstrap,` `Moment.js,` `Chart.js,` `Bulma` , `Handlebars.js`
 
 ### Back End
 
-`Node.js,` `Nodemon,` `Express`
+`Node.js,` `Nodemon,` `Express` , `express-session` , `Sequelize ORM` , `MySQL database`
 
 ### Computer Science
 
