@@ -465,6 +465,11 @@ hr:not([size]) {
   height: 440px;
 }  
 
+.covid-tracker{
+  width: auto;
+  height: 440px;
+}  
+
 .work-day-scheduler{
   width: auto;
   height: 440px;
